@@ -5,5 +5,7 @@
 所需設備
 
 Raspberry pi 3
+
 紅外線感測器
+
 Logitch C270 HD WEBCAM
